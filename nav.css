@@ -1,0 +1,20 @@
+hr {
+    border: none;
+    height: 10px;
+	color: #FFCC00;
+	background-color: #FFCC00;
+	}
+
+h1 {
+	text-align: center;
+}	
+
+nav {
+	text-align: center;
+}
+ul {
+ list-style-type: none;
+  display:flex;  
+  list-style:none;
+}
+ 
