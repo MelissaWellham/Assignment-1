@@ -1,20 +1,43 @@
-hr {
-    border: none;
-    height: 10px;
-	color: #FFCC00;
-	background-color: #FFCC00;
-	}
+body {
+	margin: 50px;
+}
+
+header {
+	text-align: center;
+}
+
+header ul li {
+	display: inline-block;
+}
+
+footer ul {
+	text-align: center;
+}
+
+footer ul li {
+	display: inline-block;
+}
 
 h1 {
-	text-align: center;
+	font-family: helvetica, arial, sans-serif;
 }	
 
-nav {
-	text-align: center;
+hr {
+    height: 5px;
+	background-color: #FFCC00;
+	border-style: none;
+	}
+
+img {
+	float: right;
+	height: 250px;
+	border-radius: 50%;
 }
-ul {
- list-style-type: none;
-  display:flex;  
-  list-style:none;
+
+section {
+	margin: 40px;
 }
- 
+
+section hr {
+	height: 2px
+}
